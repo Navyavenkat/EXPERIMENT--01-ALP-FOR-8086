@@ -92,7 +92,14 @@ HLT;
 
 
 ## Output 
-![
+![image](https://user-images.githubusercontent.com/94165327/189480574-42257c3f-46f3-458e-8b61-88a3d9a3f422.png)
+
+![image](https://user-images.githubusercontent.com/94165327/189480584-e77b9ce2-d520-4a60-96dd-803f979f0347.png)
+
+![image](https://user-images.githubusercontent.com/94165327/189480590-3c5d8c1c-d3f3-42fd-a104-3285149400df.png)
+
+![image](https://user-images.githubusercontent.com/94165327/189480602-f3856f55-3d71-4f3a-af7a-6aac75ea2386.png)
+
 
  
 ## Subtraction   of 8 bit numbers  ALP 
@@ -108,6 +115,9 @@ HLT;
 
  
 ## Output  
+![image](https://user-images.githubusercontent.com/94165327/189480619-f2e6e106-4b65-46f6-ae4f-e27a28addec4.png)
+![image](https://user-images.githubusercontent.com/94165327/189480649-2c99ff19-bdd2-4dd4-a4e8-3410eeb22481.png)
+
 ## Multiplication alp
 ```
 
@@ -121,7 +131,12 @@ MOV AX,00;
 HLT;
 ```
 
- ## Output  
+ ## Output 
+ ![image](https://user-images.githubusercontent.com/94165327/189480678-7940c967-6529-412f-b1b7-490e70d07c95.png)
+![image](https://user-images.githubusercontent.com/94165327/189480688-56e09b98-8c29-4f86-a5b0-9222bf065ac0.png)
+![image](https://user-images.githubusercontent.com/94165327/189480696-b6e0e796-3495-4eca-8379-2db8d4520b1f.png)
+![image](https://user-images.githubusercontent.com/94165327/189480698-887eacaf-9631-4831-ab8b-b29a1b89f9c0.png)
+
 
 
 ## Division alp
@@ -138,11 +153,18 @@ HLT;
 
 
 ## Output  
+![image](https://user-images.githubusercontent.com/94165327/189480709-68a15b3a-6679-4e35-9aba-cd0a1319df39.png)
+![image](https://user-images.githubusercontent.com/94165327/189480819-0bdf67a4-04f8-4489-82a9-b68f649c80bf.png)
+![image](https://user-images.githubusercontent.com/94165327/189480839-33016887-3b92-443a-af23-b677e91ecaba.png)
+![image](https://user-images.githubusercontent.com/94165327/189480859-86b33fa2-2e72-4966-b44e-b312994f448e.png)
+
 
 
 
 ###
 ## Result :
+ 
+    Hence ALP on fundamental arithmetic and logical operations is verified and executed.
  
 
 
